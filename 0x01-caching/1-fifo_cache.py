@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Module for task 1"""
+from collections import OrderedDict
 from base_caching import BaseCaching
 
 
